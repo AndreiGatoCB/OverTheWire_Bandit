@@ -13,6 +13,7 @@ cada comando usado para resolver el respectivo nivel.
 
 - [x] [bandit 0](bandit_0/bandit0.md)
   - Conexión al entorno de bandit de over the wire.
+  - Acceso a un archivo del directorio principal.
   
 - [x] [bandit 1](bandit_1/bandit1.md)
   - Acceso a un archivo cuyo nombre es un guión.
