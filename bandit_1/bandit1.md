@@ -14,4 +14,4 @@ Con estos comandos tendremos acceso a la contraseña para acceder al nivel 1 de 
 
 Las contraseñas se encontrarán realizando el nivel en [OTW1][1]
 
-[1]: https://overthewire.org/wargames/bandit/bandit1.html
+[1]: https://overthewire.org/wargames/bandit/bandit2.html
