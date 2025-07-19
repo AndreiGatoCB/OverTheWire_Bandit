@@ -12,13 +12,14 @@ Cada día agregaré un nuevo nivel, y la manera en la que logré resolvero, adem
 cada comando usado para resolver el respectivo nivel.
 
 - [x] [bandit 0](bandit_0/bandit0.md)
-  - Conexión al entorno de bandit de over the wire
+  - Conexión al entorno de bandit de over the wire.
   
-- [x] [bandit 1](bandit1/bandit1.md)
-  - Acceso a un archivo cuyo nombre es un guión
+- [x] [bandit 1](bandit_1/bandit1.md)
+  - Acceso a un archivo cuyo nombre es un guión.
 
-- [ ] bandit 2
-
+- [x] [bandit 2](bandit_2/bandit2.md)
+  - Acceso a un archivo cuyo nombre contiene espacios.
+    
 - [ ] bandit 3
 
 - [ ] bandit 4
