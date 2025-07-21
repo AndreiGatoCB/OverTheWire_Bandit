@@ -24,8 +24,9 @@ cada comando usado para resolver el respectivo nivel.
 - [x] [bandit 3](bandit_3/bandit3.md)
   - Acceso a un archivo secreto.
       
-- [ ] bandit 4
-
+- [x] [bandit 4](bandit_4/bandit4.md)
+  - Encontrar un archivo que pueda ser leído por el ser humano, es decir que no esté cifrado.
+      
 - [ ] bandit 5
 
 - [ ] bandit 6
