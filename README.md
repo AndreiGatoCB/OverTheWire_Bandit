@@ -21,8 +21,9 @@ cada comando usado para resolver el respectivo nivel.
 - [x] [bandit 2](bandit_2/bandit2.md)
   - Acceso a un archivo cuyo nombre contiene espacios.
     
-- [ ] bandit 3
-
+- [x] [bandit 3](bandit_3/bandit3.md)
+  - Acceso a un archivo secreto.
+      
 - [ ] bandit 4
 
 - [ ] bandit 5
