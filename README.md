@@ -27,8 +27,12 @@ cada comando usado para resolver el respectivo nivel.
 - [x] [bandit 4](bandit_4/bandit4.md)
   - Encontrar un archivo que pueda ser leído por el ser humano, es decir que no esté cifrado.
       
-- [ ] bandit 5
-
+- [x] [bandit 5](bandit_5/bandit5.md)
+  - Encontrar un archivo que cumpla tres condiciones:
+    - Tipo de cifrado del archivo
+    - Tamaño del archivo
+    - Tipo del archivo
+      
 - [ ] bandit 6
 
 - [ ] bandit 7
@@ -86,4 +90,3 @@ cada comando usado para resolver el respectivo nivel.
 - [ ] bandit 33
 
 - [ ] bandit 34
-
