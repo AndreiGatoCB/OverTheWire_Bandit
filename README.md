@@ -33,8 +33,13 @@ cada comando usado para resolver el respectivo nivel.
     - Tamaño del archivo
     - Tipo del archivo
       
-- [ ] bandit 6
-
+- [x] [bandit 6](bandit_6/bandit6.md)
+  - Encontrar un archivo que cumpla tres condiciones:
+    - Pertenezca a un usuario específico
+    - Pertenezca a un grupo específico
+    - Pese exactamente 33 bytes
+   > No está en el directorio al que accedes tras ingresar.
+      
 - [ ] bandit 7
 
 - [ ] bandit 8
