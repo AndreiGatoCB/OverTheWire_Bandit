@@ -45,7 +45,9 @@ cada comando usado para resolver el respectivo nivel.
     
 - [x] [bandit 8](bandit_8/bandit8.md)
   - Encontrar una línea única en un archivo dado.
-- [ ] bandit 9
+
+- [x] [bandit 9](bandit_9/bandit9.md)
+  - Encontrar cadenas de texto basados en una serie de caracteres dados.
 
 - [ ] bandit 10
 
