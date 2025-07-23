@@ -40,8 +40,9 @@ cada comando usado para resolver el respectivo nivel.
     - Pese exactamente 33 bytes
    > No está en el directorio al que accedes tras ingresar.
       
-- [ ] bandit 7
-
+- [x] [bandit 7](bandit_7/bandit7.md)
+  - Encontrar una línea en un archivo basado en un string dado.
+    
 - [ ] bandit 8
 
 - [ ] bandit 9
