@@ -49,10 +49,13 @@ cada comando usado para resolver el respectivo nivel.
 - [x] [bandit 9](bandit_9/bandit9.md)
   - Encontrar cadenas de texto basados en una serie de caracteres dados.
 
-- [ ] bandit 10
-
-- [ ] bandit 11
-
+- [x] [bandit 10](bandit_10/bandit10.md)
+  - Descifrar un archivo cifrado en base64
+     
+- [x] [bandit 11](bandit_11/bandit11.md)
+  - Rotar los caracteres de un archivo para encontrar el resultado.
+    > Cifrado Cesar
+    
 - [ ] bandit 12
 
 - [ ] bandit 13
