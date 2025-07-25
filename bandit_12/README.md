@@ -1,9 +1,9 @@
 # BANDIT 12
 
-El objetivo de bandit 12 ejecutar un descifrado de varios niveles y la extracción 
+El objetivo de bandit 12 ejecutar una descompresión y extracción 
 de archivos en distintos niveles.
 
-> Para este nivel se usó la información de cifrados que aparece en esta página: [Página de cifrados][1]
+> Para este nivel se usó la información de firmas de archivos que aparece en esta página: [Lista de firmas de archivos][1]
 
 Al extraer el último archivo encontraremos la contraseña para acceder al nivel 13.
 
