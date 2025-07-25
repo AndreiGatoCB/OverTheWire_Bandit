@@ -56,7 +56,9 @@ cada comando usado para resolver el respectivo nivel.
   - Rotar los caracteres de un archivo para encontrar el resultado.
     > Cifrado Cesar
     
-- [ ] bandit 12
+- [x] [bandit 12](bandit_12/bandit12.md)
+  - Descomprimir archivos con distintos métodos de compresión.
+    > [Lista de firmas de archivos][1]
 
 - [ ] bandit 13
 
@@ -101,3 +103,5 @@ cada comando usado para resolver el respectivo nivel.
 - [ ] bandit 33
 
 - [ ] bandit 34
+
+[1]: https://en.wikipedia.org/wiki/List_of_file_signatures
