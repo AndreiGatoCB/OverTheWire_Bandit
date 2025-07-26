@@ -1,8 +1,8 @@
-# BANDIT 11
+# BANDIT 12
 
 ### Los comandos que ejecuté para resolver este nivel fueron los siguientes
 
-- **_Comando de conexión:_** `ssh bandit11@bandit.labs.overthewire.org -p 2220`
+- **_Comando de conexión:_** `ssh bandit12@bandit.labs.overthewire.org -p 2220`
 
 - **_Contraseña:_** `_______`
 
@@ -110,9 +110,9 @@
 - **_Abrimos el archivo data8
   :_** `cat data8`
   
-Con estos comandos tendremos acceso a la contraseña para acceder al nivel 12 de OTW.
+Con estos comandos tendremos acceso a la contraseña para acceder al nivel 13 de OTW.
 
-Las contraseñas se encontrarán realizando el nivel en [OTW11][1]
+Las contraseñas se encontrarán realizando el nivel en [OTW12][1]
 
-[1]: https://overthewire.org/wargames/bandit/bandit12.html
+[1]: https://overthewire.org/wargames/bandit/bandit13.html
 [^1]: https://en.wikipedia.org/wiki/List_of_file_signatures
