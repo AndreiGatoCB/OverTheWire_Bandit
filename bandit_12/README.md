@@ -1,6 +1,6 @@
 # BANDIT 12
 
-El objetivo de bandit 12 ejecutar una descompresión y extracción 
+El objetivo de bandit 12 es ejecutar una descompresión y extracción 
 de archivos en distintos niveles.
 
 > Para este nivel se usó la información de firmas de archivos que aparece en esta página: [Lista de firmas de archivos][1]
