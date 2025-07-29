@@ -60,7 +60,8 @@ cada comando usado para resolver el respectivo nivel.
   - Descomprimir archivos con distintos métodos de compresión.
     > [Lista de firmas de archivos][1]
 
-- [ ] bandit 13
+- [x] [bandit 13](bandit_13/bandit13.md)
+  - Utilizar una llave privada para acceder a un servidor de linux.
 
 - [ ] bandit 14
 
