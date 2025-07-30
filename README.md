@@ -63,7 +63,8 @@ cada comando usado para resolver el respectivo nivel.
 - [x] [bandit 13](bandit_13/bandit13.md)
   - Utilizar una llave privada para acceder a un servidor de linux.
 
-- [ ] bandit 14
+- [x] [bandit 14](bandit_14/bandit14.md)
+  - Obtener información con una llamada a una conexión de red.
 
 - [ ] bandit 15
 
