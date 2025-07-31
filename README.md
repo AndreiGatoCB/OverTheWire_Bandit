@@ -66,8 +66,9 @@ cada comando usado para resolver el respectivo nivel.
 - [x] [bandit 14](bandit_14/bandit14.md)
   - Obtener información con una llamada a una conexión de red.
 
-- [ ] bandit 15
-
+- [x] [bandit 15](bandit_15/bandit15.md)
+  - Realizar una conexión con un cifrado SSL/TLS
+    
 - [ ] bandit 16
 
 - [ ] bandit 17
