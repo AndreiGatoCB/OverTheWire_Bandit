@@ -19,11 +19,8 @@
 - **_Acceder a la carpeta temporal
   :_** `cd /tmp/tmp.xovoFXzqhK`
 
-- **_Acceder a la carpeta temporal
-  :_** `cd /tmp/tmp.xovoFXzqhK`
-
 - **_Renombrar el archivo a hexdump_data sin el sufijo txt
-  :_** `mv data.txt hexdumpdata`
+  :_** `mv data.txt hexdump_data`
 
 - **_Revisar las primeras líneas del archivo para encontrar el tipo de compresión
   en los primeros 6 caracteres
@@ -31,7 +28,7 @@
   > _Acá busqué el tipo de compresión en la página de wikipedia[^1] y era gzip_
 
 - **_Revertir el hexdump para tener la data original
-  :_** `xxd -r hexdump_data2 compressed_data`
+  :_** `xxd -r hexdump_data compressed_data`
 
 - **_Renombrar el archivo compressed_data agregando el sufijo .gz
   :_** `mv compressed_data compressed_data.gz`
@@ -48,6 +45,9 @@
 - **_Agregar el sufijo bz2
   :_** `mv compressed_data compressed_data.bz2`
 
+- **_Descomprimir el archivo compressed_data.bz2
+  :_** `bzip2 -d compressed_data.bz2`
+
 - **_Revisar las primeras líneas del archivo para encontrar el tipo de compresión
   en los primeros 6 caracteres
   :_** `xxd compressed_data | head`
@@ -62,7 +62,7 @@
 - **_Revisar las primeras líneas del archivo para encontrar el tipo de compresión
   en los primeros 6 caracteres
   :_** `xxd compressed_data | head`
-  > _En este caso hay un archivo llamado data6.bin_
+  > _En este caso hay un archivo llamado data5.bin_
 
 - **_Extraer el archivo al interior de `data5.bin`
   :_** `tar -xf data5.bin`
@@ -81,7 +81,7 @@
 
 - **_Revisar las primeras líneas del archivo para encontrar el tipo de compresión
   en los primeros 6 caracteres
-  :_** `xxd data6.bin`
+  :_** `xxd data6 | head`
   > _En este caso hay un archivo llamado data8.bin_
 
 - **_Agregar el sufijo .tar al archivo data6
